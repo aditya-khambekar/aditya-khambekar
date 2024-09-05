@@ -1,3 +1,3 @@
-SLHS Junior
-Java
-Learning Python and Golang
+SLHS Junior  
+Java  
+Learning Python and Golang  
