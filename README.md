@@ -1,3 +1,3 @@
 SLHS Junior  
 Java  
-Learning Python and Golang  
+Learning Python, Go, Rust
