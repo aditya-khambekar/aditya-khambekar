@@ -1,3 +1,2 @@
-SLHS Junior  
-Java, Python  
-Learning Go, Rust
+SLHS
+FRC 4639 Programming Director
