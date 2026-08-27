@@ -1,2 +1,1 @@
-SLHS  
-FRC 4639 Programming Director
+CS @ UT Austin
